@@ -1,0 +1,9 @@
+Hello, world!
+
+Welcome to my first webpage! This is an exciting journey into the world of web development. I'm thrilled to learn and create amazing things.
+
+In this journey, I'll explore HTML, CSS, and JavaScript to build interactive and engaging websites.
+
+Stay tuned for more updates as I embark on this adventure!
+
+Created with ❤️ by Agnel
