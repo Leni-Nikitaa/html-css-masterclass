@@ -21,7 +21,7 @@ A: If you're new to GitHub, click the green button labeled "Code" and select "Do
 A: First, try troubleshooting on your own and compare your code to the final version. If you still need assistance, post a detailed description of the problem and your code on the Q&A section of the course page.
 
 ### Q3: What VSCode theme are you using? What about extensions and settings?
-A: I use One Monokai theme in this course. Find the complete VS Code setup [here](#).
+A: I use One Monokai theme in this course. Find the complete VS Code setup [here](https://github.com/Leni-Nikitaa/html-css-masterclass/blob/main/vscode-setup-guide.md).
 
 ## Stay Updated
 
